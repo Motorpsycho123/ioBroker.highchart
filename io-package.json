@@ -33,12 +33,14 @@
         "keywords": ["highcharts"],
         "readme": "https://github.com/Motorpsycho123/ioBroker.highcharts/blob/master/README.md",
         "loglevel": "info",
-        "type": "general",
+        "localLink": "%web_protocol%://%ip%:%web_port%/highcharts/index.html",
+        "enabled":      true,
+        "onlyWWW":      true,
+        "singleton":    true,
+        "type": "visualization",
         "restartAdapters": []
     },
     "native": {
-        "test1": true,
-        "test2": 42
     },
     "objects": [
 
