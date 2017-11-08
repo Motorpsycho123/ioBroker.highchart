@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "highchart",
+        "name": "highcharts",
         "version": "0.0.1",
         "news": {
 
@@ -30,7 +30,7 @@
         "icon": "highchart.png",
         "enabled": true,
         "extIcon": "",
-        "keywords": ["highchart", "vis", "GUI", "graphical", "scada"],
+        "keywords": ["highcharts"],
         "readme": "https://github.com/Motorpsycho123/ioBroker.highcharts/blob/master/README.md",
         "loglevel": "info",
         "type": "general",
