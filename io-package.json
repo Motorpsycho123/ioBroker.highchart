@@ -15,19 +15,19 @@
         },
         "title": "Javascript/Node.js based highcharts adapter",
         "desc": {
-            "en": "ioBroker highchart Adapter",
-            "de": "ioBroker Highchart Adapter",
-            "ru": "ioBroker Highchart драйвер как образец",
+            "en": "ioBroker highcharts Adapter",
+            "de": "ioBroker Highcharts Adapter",
+            "ru": "ioBroker Highcharts драйвер как образец",
             "pt": "Modelo de adaptador para o ioBroker",
             "fr": "ioBroker adaptateur modèle",
-            "nl": "ioBroker Highchart Adapter"
+            "nl": "ioBroker Highcharts Adapter"
         },
         "authors": [
             "J�rn Hoos <jhoos@web.de>"
         ],
         "platform": "Javascript/Node.js",
         "mode": "daemon",
-        "icon": "highchart.png",
+        "icon": "highcharts.png",
         "enabled": true,
         "extIcon": "",
         "keywords": ["highcharts"],
