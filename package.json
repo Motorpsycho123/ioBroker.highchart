@@ -1,6 +1,6 @@
 {
   "name": "iobroker.highchart",
-  "version": "0.5.0",
+  "version": "0.0.1",
   "description": "ioBroker highchart Adapter",
   "author": {
     "name": "Jörn Hoos",
@@ -12,17 +12,18 @@
       "email": "jhoos@web.de"
     }
   ],
-  "homepage": "https://github.com/ioBroker/ioBroker.highchart",
+  "homepage": "https://github.com/Motorpsycho123/ioBroker.highchart",
   "license": "MIT",
   "keywords": [
     "ioBroker",
     "highchart",
     "Smart Home",
-    "home automation"
+    "home automation",
+    "highcharts"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ioBroker/ioBroker.highchart"
+    "url": "https://github.com/Motorpsycho123/ioBroker.highchart"
   },
   "dependencies": {},
   "devDependencies": {
