@@ -1,0 +1,53 @@
+{
+    "common": {
+        "name": "highchart",
+        "version": "0.5.0",
+        "news": {
+            "0.5.0": {
+                "en": "beta version",
+                "de": "Betaversion",
+                "ru": "Бета версия",
+                "pt": "Versão beta",
+                "fr": "Version bêta",
+                "nl": "Beta versie"
+            },
+            "0.0.1": {
+                "en": "initial adapter",
+                "de": "Initiale Version",
+                "ru": "Первоначальный адаптер",
+                "pt": "Versão inicial",
+                "fr": "Version initiale",
+                "nl": "Eerste release"
+            }
+        },
+        "title": "Javascript/Node.js based highchart adapter",
+        "desc": {
+            "en": "ioBroker highchart Adapter",
+            "de": "ioBroker Highchart Adapter",
+            "ru": "ioBroker Highchart драйвер как образец",
+            "pt": "Modelo de adaptador para o ioBroker",
+            "fr": "ioBroker adaptateur modèle",
+            "nl": "ioBroker Highchart Adapter"
+        },
+        "authors": [
+            "my Name <my@email.com>"
+        ],
+        "platform": "Javascript/Node.js",
+        "mode": "daemon",
+        "icon": "highchart.png",
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.highchart/master/admin/highchart.png",
+        "keywords": ["highchart", "vis", "GUI", "graphical", "scada"],
+        "readme": "https://github.com/ioBroker/ioBroker.highchart/blob/master/README.md",
+        "loglevel": "info",
+        "type": "general",
+        "restartAdapters": ["vis"]
+    },
+    "native": {
+        "test1": true,
+        "test2": 42
+    },
+    "objects": [
+
+    ]
+}
