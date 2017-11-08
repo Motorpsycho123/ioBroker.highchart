@@ -29,9 +29,9 @@
         "mode": "daemon",
         "icon": "highchart.png",
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/ioBroker/ioBroker.highchart/master/admin/highchart.png",
+        "extIcon": "",
         "keywords": ["highchart", "vis", "GUI", "graphical", "scada"],
-        "readme": "https://github.com/ioBroker/ioBroker.highchart/blob/master/README.md",
+        "readme": "https://github.com/Motorpsycho123/ioBroker.highchart/blob/master/README.md",
         "loglevel": "info",
         "type": "general",
         "restartAdapters": ["vis"]
