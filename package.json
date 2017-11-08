@@ -1,7 +1,7 @@
 {
   "name": "iobroker.highchart",
   "version": "0.0.1",
-  "description": "ioBroker highchart Adapter",
+  "description": "ioBroker highcharts Adapter",
   "author": {
     "name": "Jörn Hoos",
     "email": "jhoos@web.de"
@@ -12,7 +12,7 @@
       "email": "jhoos@web.de"
     }
   ],
-  "homepage": "https://github.com/Motorpsycho123/ioBroker.highchart",
+  "homepage": "https://github.com/Motorpsycho123/ioBroker.highcharts",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Motorpsycho123/ioBroker.highchart"
+    "url": "https://github.com/Motorpsycho123/ioBroker.highcharts"
   },
   "dependencies": {},
   "devDependencies": {
@@ -40,7 +40,7 @@
     "test": "node node_modules/mocha/bin/mocha"
   },
   "bugs": {
-    "url": "https://github.com/ioBroker/ioBroker.highchart/issues"
+    "url": "https://github.com/ioBroker/ioBroker.highcharts/issues"
   },
   "readmeFilename": "README.md"
 }

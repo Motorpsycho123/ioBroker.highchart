@@ -1,1 +1,1 @@
-# ioBroker.highchart
+# ioBroker.highcharts

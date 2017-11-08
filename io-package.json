@@ -13,7 +13,7 @@
                 "nl": "Eerste release"
             }
         },
-        "title": "Javascript/Node.js based highchart adapter",
+        "title": "Javascript/Node.js based highcharts adapter",
         "desc": {
             "en": "ioBroker highchart Adapter",
             "de": "ioBroker Highchart Adapter",
@@ -23,7 +23,7 @@
             "nl": "ioBroker Highchart Adapter"
         },
         "authors": [
-            "my Name <my@email.com>"
+            "Jörn Hoos <jhoos@web.de>"
         ],
         "platform": "Javascript/Node.js",
         "mode": "daemon",
@@ -31,10 +31,10 @@
         "enabled": true,
         "extIcon": "",
         "keywords": ["highchart", "vis", "GUI", "graphical", "scada"],
-        "readme": "https://github.com/Motorpsycho123/ioBroker.highchart/blob/master/README.md",
+        "readme": "https://github.com/Motorpsycho123/ioBroker.highcharts/blob/master/README.md",
         "loglevel": "info",
         "type": "general",
-        "restartAdapters": ["vis"]
+        "restartAdapters": []
     },
     "native": {
         "test1": true,
