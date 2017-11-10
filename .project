@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>js/prepareChart.js</name>
+			<type>1</type>
+			<location>W:/iobroker-data/files/highcharts/js/prepareChart.js</location>
+		</link>
+	</linkedResources>
 </projectDescription>
