@@ -34,7 +34,6 @@
         "readme": "https://github.com/Motorpsycho123/ioBroker.highcharts/blob/master/README.md",
         "loglevel": "info",
         "localLink": "%web_protocol%://%ip%:%web_port%/highcharts/index.html",
-        "enabled":      true,
         "onlyWWW":      true,
         "singleton":    true,
         "type": "visualization",
